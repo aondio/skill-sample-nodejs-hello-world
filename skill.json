@@ -2,27 +2,22 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "Sample Short Description",
-          "examplePhrases": [
-            "Alexa open hello world",
-            "hello",
-            "help"
-          ],
-          "name": "Hello World",
-          "description": "Sample Full Description"
+        "it-IT": {
+          "name": "Cowsay"
         }
-      },
-      "isAvailableWorldwide": true,
-      "testingInstructions": "Sample Testing Instructions.",
-      "category": "KNOWLEDGE_AND_TRIVIA",
-      "distributionCountries": []
+      }
     },
     "apis": {
       "custom": {
         "endpoint": {
-          "sourceDir": "lambda/custom"
-        }
+          "sourceDir": "./lambda/eu-west-1_aws-serverless-repository-alexaskillskitnodejsfact-1VREUAWKIGUK8"
+        },
+        "interfaces": [
+          {
+            "type": "RENDER_TEMPLATE",
+            "minimumTemplateVersion": "1.0"
+          }
+        ]
       }
     },
     "manifestVersion": "1.0"
