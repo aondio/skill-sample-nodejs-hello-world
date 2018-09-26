@@ -1,4 +1,4 @@
-# Build An Alexa Hello World Skill
+# Build An Alexa Cowsay Skill
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 ### This is a simple tutorial to introduce a simple Alexa skill and code.
