@@ -3,7 +3,7 @@
 
 ### This is a simple tutorial to introduce a simple Alexa skill and code.
 
-This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a skill using this hello world template, called ‘hello world’. This post assumes you have some familiarity with JavaScript/Node.js (or a similar programming language) and the Alexa Skills Kit.
+This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a multimodal skill using this cowsay template, called ‘mucca parlante’. This post assumes you have some familiarity with JavaScript/Node.js (or a similar programming language) and the Alexa Skills Kit.
 
 If this is your first time here, you're new to Alexa Skills Development, or you're looking for more detailed instructions, click the **Get Started** button below:
 
